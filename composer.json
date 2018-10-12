@@ -28,5 +28,10 @@
             "Laravel\\Cashier\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.0-stripev3"
+        }
+    },
     "minimum-stability": "dev"
 }
