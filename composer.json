@@ -30,7 +30,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "5.0-stripev3"
+            "dev-master": "dev-5.0stripev3"
         }
     },
     "minimum-stability": "dev"
